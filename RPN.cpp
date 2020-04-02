@@ -1,4 +1,5 @@
-// RPN calculator
+// RPN Calculator
+// Samuel Shard, 100745640
 
 #include <iostream> 
 #include <string>
